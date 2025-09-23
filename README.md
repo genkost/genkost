@@ -1,6 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genkost)](https://github.com/anuraghazra/github-readme-stats)
+**Привет!**
 
-<!---
-genkost/genkost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am GenKost, aka genkost, aka g3nk05t, aka...
+
+You may know me as a game developer or as a algorithmic trader.
+
+I am the main developer for Beach on Roblox. It's currently in development (has been for the past 2 years...). 
+
+Hopefully it gets released soon....
